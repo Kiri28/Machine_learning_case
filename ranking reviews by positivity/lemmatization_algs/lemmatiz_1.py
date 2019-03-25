@@ -1,9 +1,5 @@
-text=' На; практике очень, часто возникают задачи для решения\
-которых используются методы оптимизации в обычной жизни при \
-множественном выборе  !например подарков, к новому году мы интуитивно \
-решаем задачу минимальных затрат при заданном качестве покупок '
-
-
+#2-nd lemmatization algoryithm with nltk - lemmatization and Russina SnowballStemmer...
+#...And only punctuations symbols deleting
 def lem_1(text):
     punctuations = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
     import nltk,string
