@@ -7,4 +7,4 @@ There are some cases from real business situations with machine learning algorit
 ____________
 [1-st Case] Ranking reviews by positivity: we have database with sentence with the specified ratings reviews. It is neccasery to define in test sample the rating of each sentence.  
 
-[1-st Case]:https://github.com/Kiri28/Data-analysis_project/blob/master/Docs/1_TUTORIAL.md
+[1-st Case]:https://github.com/Kiri28/Machine_learning_case/tree/master/ranking%20reviews%20by%20positivity
