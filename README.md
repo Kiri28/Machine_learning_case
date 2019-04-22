@@ -4,3 +4,5 @@
 [![Anaconda](https://img.shields.io/badge/Anaconda-3.0-green.svg)](https://www.anaconda.com/distribution/)
 __________________
 There are some cases from real business situations with machine learning algoritms applications. Each of these cases includes some description about task of this case, Python and R code with some description of the applied algorithms and input and output data.
+____________
+1-st Case: Ranking reviews by positivity: we have database with sentence with the specified ratings reviews. It is neccasery to define in test sample the rating of each sentence.
